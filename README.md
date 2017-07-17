@@ -1,2 +1,0 @@
-# savSync
-something for emulation
