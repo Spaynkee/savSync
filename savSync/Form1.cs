@@ -16,5 +16,17 @@ namespace savSync
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            //And here is where I'd put my program, if I had one.
+            //On load, we need to check for a list file, parse it in
+
+            //refresh the listbox's display
+
+            //We need 4 buttons, add remove get put
+            
+            //To submit changes to git, we have to commit changes, then push, then merge
+        }
     }
 }
